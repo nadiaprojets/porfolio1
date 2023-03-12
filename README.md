@@ -3,6 +3,5 @@ Voici mon premier portfolio créé lors de ma première formation de développeu
 
 ---
 
-#### Voir le projet
-
+### Voir le projet :
 * [Portfolio n°1](https://nadiaprojets.github.io/portfolio1/) 
